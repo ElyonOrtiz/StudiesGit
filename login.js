@@ -1,3 +1,3 @@
 fuction(){...........}
 function password(){.......}
-console.log("hello")
+console.log("hello")function createNewUser(){....}
