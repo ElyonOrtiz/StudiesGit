@@ -1,3 +1,3 @@
 fuction(){...........}
 function password(){.......}
-function set (){.....}
+console.log("hello")
