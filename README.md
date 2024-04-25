@@ -5,7 +5,7 @@ atalho para log personalizado
 
 
 
-#Nota: configuração para push de commits e tags simultaneamente
+# Nota: configuração para push de commits e tags simultaneamente
 
 Para adicionar a configuração a um repositório local específico, acesse o repositório e execute:
 
@@ -18,3 +18,7 @@ git config --global push.followTags true
 Para adicionar a configuração a todos os repositórios de todos os usuários do sistema operacional execute:
 
 git config --system push.followTags true 
+
+# Mudar para commit 
+
+git switch "commit que eu desejo" -- detach   
